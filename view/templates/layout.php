@@ -3,8 +3,6 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="icon" type="image/gif" sizes="84x86" href="public/img/fav.gif">
-        <meta name="description" content="Портфолио Александра Кропачева. Здесь Вы можете найти работы сделанные мной.">
-        <meta name="keywords" content="Портфолио Александра Кропачева, Mycode.ee, разработчик программного обеспечения, веб-разработчик">
         <meta charset="UTF-8">
         <?php echo '<title>' . $title . '</title>' ?>
         <link href="public/img/brand/favicon.png" rel="icon" type="image/png">
